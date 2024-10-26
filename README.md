@@ -1,46 +1,44 @@
-<h1>Система отзывов для вашего сайта!</h1>
+<h1>Feedback system for your website!</h1>
 
-<h2>Главная страница отзывов</h2>
+<h2>Feedback home page</h2>
 
-<b>Заголовок:</b> "Отзывы"<br>
-<b>Краткое описание:</b> "Мы ценим ваше мнение. Пожалуйста, заполните форму ниже, чтобы оставить отзыв или задать вопрос".<br>
-<b>Ссылки на конкретные страницы отзывов:</b> "Отзывы о продукте", "Техническая поддержка", "Общие вопросы"<br>
+<b>Heading:</b> "Feedback"<br>
+<b>Short description:</b> "We value your opinion. Please fill out the form below to leave a review or ask a question."<br>
+<b>Links to specific feedback pages:</b> "Product Reviews", "Technical Support", "General Questions"<br>
 
-<h1>Страница отзывов о продукте</h1>
+<h1>Product Reviews Page</h1>
 
-<b>Заголовок:</b> "Отзывы о продукте"<br>
-<b>Форма:</b><br>
-- Поле ввода имени<br>
-- Поле ввода адреса электронной почты<br>
-- Поле выбора продукта (раскрывающийся список)<br>
-- Поле ввода отзыва (текстовая область)<br>
-- Кнопка "Отправить"<br>
+<b>Heading:</b> "Product Reviews"<br>
+<b>Form:</b><br>
+- Name input field<br>
+- Email input field<br>
+- Product selection field (drop-down list)<br>
+- Feedback input field (text area)<br>
+- Button "Submit"<br>
 
-<h1>Техническая поддержка Страница</h1>
+<h1>Technical Support Page</h1>
 
-<b>Заголовок:</b> "Техническая поддержка"<br>
-<b>Форма:</b><br>
-- Поле ввода имени<br>
-- Поле ввода адреса электронной почты<br>
-- Поле выбора проблемы (раскрывающийся список)<br>
-- Поле описания проблемы (текстовая область)<br>
-- Кнопка "Отправить"<br>
+<b>Heading:</b> "Technical Support"<br>
+<b>Form:</b><br>
+- Name input field<br>
+- Email input field<br>
+- Problem selection field (drop-down list)<br>
+- Problem description field (text area)<br>
+- "Submit" button<br>
 
-<h1>Страница общих вопросов</h1>
+<h1>General Questions Page</h1>
 
-<b>Заголовок:</b> "Общие вопросы"<br>
-<b>Форма:</b><br>
-- Поле ввода имени<br>
-- Поле ввода адреса электронной почты<br>
-- Поле ввода вопроса (текстовая область)<br>
-- Кнопка "Отправить"<br>
+<b>Heading:</b> "General Questions"<br>
+<b>Form:</b><br>
+- Name input field<br>
+- Email input field<br>
+- Question input field (text area)<br>
+- "Submit" button<br>
 
-<h1>Страница подтверждения</h1>
+<h1>Confirmation Page</h1>
 
-<b>Сообщение:</b> "Спасибо за ваш отзыв! Мы свяжемся с вами в ближайшее время."<br> 
-
-<h1>Страницы для получения данных из заполненных палей</h1> 
-- Дополнительное продолжение времени написания. <br> 
-
-<h1>Create-bd.php: Создание базы данных</h1> 
-- При переходе на страницу расчета базы данных и таблиц.<br>
+<b>Message:</b> "Thank you for your feedback! We will contact you shortly."<br> 
+<h1>Pages for obtaining data from completed paly</h1> 
+- Additional acceleration of writing time. <br> 
+<h1>Create-bd.php: Creating a database</h1> 
+- When going to the page for calculating the database and tables.<br>
