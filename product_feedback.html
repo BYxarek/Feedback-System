@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Review</title>
+  <link rel="stylesheet" href="css/product_feedback.css">
+</head>
+<body>
+  <h1>Product Review</h1>
+  <form action="php/submit_feedback.php" method="post">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required>
+    <br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    <br>
+    <label for="product">Product:</label>
+    <select id="product" name="product" required>
+      <option value="product1">Product 1</option>
+      <option value="product2">Product 2</option>
+    </select>
+    <br>
+    <label for="feedback">Feedback:</label>
+    <textarea id="feedback" name="feedback" required></textarea>
+    <br>
+    <button type="submit">Submit</button>
+  </form>
+</body>
+</html>
